@@ -55,12 +55,14 @@ Indeed, as time goes by, things do change. The interaction between two completel
 - Published webpage for stage 4: https://nech691.github.io/Exquisite-Corpse-Stage-IV-A-Second-Scoop/ 
 
 *For stage IV of this task, I began with noon0v0's project because I wanted my game to have background music. So, I deleted most of their original code (a visualisation of the song) and left the button that played the music. I changed the music file to a (YouTube to MP3) bard core version of Lana Del Ray's "Summertime Sadness" to match the DnD vibe I was going for. The game is simple:
+
 > You begin with a note asking for help, which you accept or deny.
 > Then, you have to choose between "left" and "right" six times
 > There are two ways of losing the game:
->> Getting lost
->> Invading the privacy of a demon
+ >> Getting lost
+ >> Invading the privacy of a demon
 > If you make all six correct choices, you win
+
 I wanted this game to feel like a long journey with high risks and an extremely low and unfulfilling end price, as this is the setup for my favourite type of jokes (longer than needed and not that funny)
 I also kept the "Game Over" sequence from a previous stage I worked on that involved the "A Second Scoop" corpse but changed it to look more like icecream dripping down the screen.
 Finally, if you win the game, you don't have to refresh the page, instead, you can press a button to play again*
