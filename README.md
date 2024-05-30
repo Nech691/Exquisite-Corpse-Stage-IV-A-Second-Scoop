@@ -50,11 +50,20 @@ I wanted this sketch to be a bit playful while still having an underlying theme 
 Indeed, as time goes by, things do change. The interaction between two completely different things is particularly appealing. Especially, when a change in one thing often triggers a corresponding change in another, which is often quite interesting. In my project, I included a song, so please turn on the speakers and immerse yourself fully while browsing. As the melody of the song flows, the changes in the song's spectrum on the interface are cleverly represented by the number of ice cream balls stacked in ice cream cones. These ice cream balls, of various flavors and arranged in an orderly manner, visually represent the intensity of different frequencies in the song's spectrum through their numbers. In the process of completing this project, I received assistance from ChatGPT. I asked ChatGPT for advice on how to load music in p5.js and how to process the distributed spectrum obtained from the music. I used the spectrum data at each moment to draw ice cream cones of corresponding heights on the canvas, thus demonstrating that time can be recorded through the changes of tangible objects.
 
 ### 🟦 Stage 4
-- Name/Alias:
-- Github account:
-- Published webpage for stage 4:
+- Name/Alias: N J R Echer
+- Github account: Nech691
+- Published webpage for stage 4: https://nech691.github.io/Exquisite-Corpse-Stage-IV-A-Second-Scoop/ 
 
-*... comments to be added here*
+*For stage IV of this task, I began with noon0v0's project because I wanted my game to have background music. So, I deleted most of their original code (a visualisation of the song) and left the button that played the music. I changed the music file to a (YouTube to MP3) bard core version of Lana Del Ray's "Summertime Sadness" to match the DnD vibe I was going for. The game is simple:
+> You begin with a note asking for help, which you accept or deny.
+> Then, you have to choose between "left" and "right" six times
+> There are two ways of losing the game:
+>> Getting lost
+>> Invading the privacy of a demon
+> If you make all six correct choices, you win
+I wanted this game to feel like a long journey with high risks and an extremely low and unfulfilling end price, as this is the setup for my favourite type of jokes (longer than needed and not that funny)
+I also kept the "Game Over" sequence from a previous stage I worked on that involved the "A Second Scoop" corpse but changed it to look more like icecream dripping down the screen.
+Finally, if you win the game, you don't have to refresh the page, instead, you can press a button to play again*
 
 ### 🟪 Stage 5
 - Name/Alias:
